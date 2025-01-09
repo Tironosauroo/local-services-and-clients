@@ -67,6 +67,7 @@ class Calculator:
 # print(f"Квадратний корінь: {sqrt_calculator.root()}")
     
 
+# A CHANGE
 
 # calculator1 = Calculator([1,2,3,4])
 # print(calculator1.add())
